@@ -1,0 +1,12 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#0b0f14"/>
+<rect x="50" y="50" width="300" height="200" rx="12" fill="rgba(0, 229, 255, 0.1)" stroke="rgba(0, 229, 255, 0.3)"/>
+<rect x="70" y="80" width="60" height="8" rx="4" fill="#00E5FF"/>
+<rect x="70" y="100" width="180" height="6" rx="3" fill="rgba(255, 255, 255, 0.3)"/>
+<rect x="70" y="115" width="120" height="6" rx="3" fill="rgba(255, 255, 255, 0.3)"/>
+<rect x="70" y="140" width="200" height="4" rx="2" fill="rgba(168, 85, 247, 0.5)"/>
+<rect x="70" y="155" width="160" height="4" rx="2" fill="rgba(168, 85, 247, 0.5)"/>
+<circle cx="320" cy="100" r="20" fill="rgba(0, 229, 255, 0.2)" stroke="#00E5FF"/>
+<path d="M310 100L318 108L330 92" stroke="#00E5FF" stroke-width="2" fill="none"/>
+<text x="200" y="280" text-anchor="middle" fill="#00E5FF" font-family="Arial" font-size="14">Bill Categorizer</text>
+</svg>
